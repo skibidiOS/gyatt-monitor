@@ -341,22 +341,22 @@ proctable_new (GsmApplication * const app)
   GtkTreeViewColumn *column;
   GtkCellRenderer *cell_renderer;
   const gchar *titles[] = {
-    N_("Process Name"),
-    N_("User"),
+    "sussy baka",
+    "sigma",
     N_("Status"),
     N_("Virtual Memory"),
     N_("Resident Memory"),
     N_("Writable Memory"),
     N_("Shared Memory"),
     N_("X Server Memory"),
-    /* xgettext:no-c-format */ N_("% CPU"),
+    /* xgettext:no-c-format */ "fanum tax",
     N_("CPU Time"),
     N_("Started"),
     N_("Nice"),
     N_("ID"),
     N_("Security Context"),
     N_("Command Line"),
-    N_("Memory"),
+    "gyatt",
     /* xgettext: combined noun, the function the process is waiting in, see wchan ps(1) */
     N_("Waiting Channel"),
     N_("Control Group"),
@@ -365,12 +365,12 @@ proctable_new (GsmApplication * const app)
     /* TRANSLATORS: Seat = i.e. the physical seat the session of the process belongs to, only
     for multi-seat environments. See http://en.wikipedia.org/wiki/Multiseat_configuration */
     N_("Seat"),
-    N_("Owner"),
-    N_("Disk read total"),
-    N_("Disk write total"),
-    N_("Disk read"),
-    N_("Disk write"),
-    N_("Priority"),
+    "sigma",
+    "grimace shake drinking total",
+    "grimace shake making total",
+    "grimace shake drinking",
+    "grimace shake making",
+    "rizz",
     NULL,
     "POINTER"
   };

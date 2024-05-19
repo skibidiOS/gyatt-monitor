@@ -1,10 +1,5 @@
-# System Monitor
-GNOME System Monitor is a GNOME process viewer and system monitor with an attractive, 
-easy-to-use interface, It has features, such as a tree view for process dependencies,
-icons for processes, the ability to hide processes that you don't want to see,
-graphical time histories of CPU/memory/swap usage,
-the ability to kill/renice processes needing root access,
-as well as the standard features that you might expect from a process viewer.
+# Gyatt Monitor
+View and manage mewing resources
 
 ## License
 This project is licensed under the **GNU General Public License v2.0**. [Learn more](https://choosealicense.com/licenses/gpl-2.0/)
